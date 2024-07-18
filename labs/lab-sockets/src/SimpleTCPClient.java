@@ -44,7 +44,7 @@ public class SimpleTCPClient {
     }
 
     public static void main(String[] args) {
-        String serverIp = "0.0.0.0";
+        String serverIp = "10.0.3.49";
         int serverPort = 6666;
         try {
             // Cria e roda cliente
